@@ -6,7 +6,7 @@ Front-End Technologies:
 HTML/CSS/JavaScript with React.js
 
 Back-End Technologies:
-Python, C#, Winforms, VB.net
+Python, C#, Winforms, VB.net, Node.js
 
 Database Technologies:
 MongoDB, SQL
